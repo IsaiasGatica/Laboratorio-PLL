@@ -1,7 +1,7 @@
-PWD c:\Users\Isaia\Desktop\inf
+PWD d:\Isaias\Documents\Git\Laboratorio-PLL
 INPUT C:\Users\Isaia\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Isaia\Desktop\inf\Intro.tex
-OUTPUT c:\Users\Isaia\Desktop\inf\build\Intro.log
+INPUT d:\Isaias\Documents\Git\Laboratorio-PLL\Intro.tex
+OUTPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.log
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran.cls
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran.cls
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr9.tfm
@@ -108,9 +108,9 @@ INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\co
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT c:\Users\Isaia\Desktop\inf\build\Intro.aux
-INPUT c:\Users\Isaia\Desktop\inf\build\Intro.aux
-OUTPUT c:\Users\Isaia\Desktop\inf\build\Intro.aux
+INPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.aux
+INPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.aux
+OUTPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.aux
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
@@ -123,20 +123,15 @@ INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcou
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
-INPUT c:\Users\Isaia\Desktop\inf\build\Intro.out
-INPUT c:\Users\Isaia\Desktop\inf\build\Intro.out
-INPUT c:\Users\Isaia\Desktop\inf\build\Intro.out
-INPUT c:\Users\Isaia\Desktop\inf\build\Intro.out
-OUTPUT c:\Users\Isaia\Desktop\inf\build\Intro.pdf
-INPUT c:\Users\Isaia\Desktop\inf\build\Intro.out
-INPUT c:\Users\Isaia\Desktop\inf\build\Intro.out
-OUTPUT c:\Users\Isaia\Desktop\inf\build\Intro.out
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi10.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.out
+INPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.out
+INPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.out
+INPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.out
+OUTPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.pdf
+INPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.out
+INPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.out
+OUTPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.out
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
@@ -148,29 +143,11 @@ INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.f
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT def1.png
 INPUT .\def1.png
 INPUT .\def1.png
 INPUT .\def1.png
 INPUT .\def1.png
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT def2.png
 INPUT .\def2.png
 INPUT .\def2.png
@@ -186,12 +163,12 @@ INPUT .\vco2.png
 INPUT .\vco2.png
 INPUT .\vco2.png
 INPUT .\vco2.png
-INPUT C:\Users\Isaia\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT pll1.png
 INPUT .\pll1.png
 INPUT .\pll1.png
 INPUT .\pll1.png
 INPUT .\pll1.png
+INPUT C:\Users\Isaia\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT pll2.png
 INPUT .\pll2.png
 INPUT .\pll2.png
@@ -217,6 +194,17 @@ INPUT .\Fig\FrecuenciaLibreVariandoR50K.png
 INPUT .\Fig\FrecuenciaLibreVariandoR50K.png
 INPUT .\Fig\FrecuenciaLibreVariandoR50K.png
 INPUT .\Fig\FrecuenciaLibreVariandoR50K.png
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT Fig\Engancheinferior.png
 INPUT .\Fig\Engancheinferior.png
 INPUT .\Fig\Engancheinferior.png
@@ -257,15 +245,15 @@ INPUT .\Fig\FFT_FMMod50Hz.png
 INPUT .\Fig\FFT_FMMod50Hz.png
 INPUT .\Fig\FFT_FMMod50Hz.png
 INPUT .\Fig\FFT_FMMod50Hz.png
-INPUT c:\Users\Isaia\Desktop\inf\build\Intro.aux
-INPUT c:\Users\Isaia\Desktop\inf\build\Intro.out
-INPUT c:\Users\Isaia\Desktop\inf\build\Intro.out
-INPUT C:\Users\Isaia\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
-INPUT C:\Users\Isaia\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.aux
+INPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.out
+INPUT d:\Isaias\Documents\Git\Laboratorio-PLL\build\Intro.out
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
@@ -278,5 +266,5 @@ INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfon
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr9.pfb
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
-INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb

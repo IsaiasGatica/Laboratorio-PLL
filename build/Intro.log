@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.30)  19 JUN 2020 18:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.30)  20 JUN 2020 12:22
 entering extended mode
-**c:/Users/Isaia/Desktop/inf/Intro.tex
-(c:/Users/Isaia/Desktop/inf/Intro.tex
+**d:/Isaias/Documents/Git/Laboratorio-PLL/Intro.tex
+(d:/Isaias/Documents/Git/Laboratorio-PLL/Intro.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> ("C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ieeetran\IEEEtran.cls"
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
@@ -329,7 +329,7 @@ Package color Info: Driver file: pdftex.def on input line 147.
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count278
 \l__pdf_internal_box=\box51
-) (c:/Users\Isaia\Desktop\inf\build\Intro.aux
+) (d:/Isaias\Documents\Git\Laboratorio-PLL\build\Intro.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
@@ -472,196 +472,178 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
- (c:/Users\Isaia\Desktop\inf\build\Intro.out) (c:/Users\Isaia\Desktop\inf\build\Intro.out)
+ (d:/Isaias\Documents\Git\Laboratorio-PLL\build\Intro.out) (d:/Isaias\Documents\Git\Laboratorio-PLL\build\Intro.out)
 \@outlinefile=\write3
 \openout3 = `Intro.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 18.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
- ("C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
- ("C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 18.
-
-No file OT1pcr.fd.
-
-LaTeX Font Warning: Font shape `OT1/pcr/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 18.
 
 
 LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
-(Font)              using `OT1/ptm/bx/n' instead on input line 19.
+(Font)              using `OT1/ptm/bx/n' instead on input line 20.
 
 
 LaTeX Font Warning: Font shape `OT1/ptm/m/sc' undefined
-(Font)              using `OT1/ptm/m/n' instead on input line 22.
+(Font)              using `OT1/ptm/m/n' instead on input line 23.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+("C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+ ("C:\Users\Isaia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
 []\OT1/ptm/bx/it/10 Medicion de $\OML/cmm/m/it/10 C$ \OT1/ptm/bx/it/10 pa-ra fre-cuen-cias de
  []
 
 <def1.png, id=44, 475.02469pt x 387.69844pt>
 File: def1.png Graphic file (type png)
 <use def1.png>
-Package pdftex.def Info: def1.png  used on input line 45.
+Package pdftex.def Info: def1.png  used on input line 46.
 (pdftex.def)             Requested size: 142.5085pt x 116.31042pt.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 50.
-LaTeX Font Info:    No file TS1ptm.fd. on input line 50.
-
-LaTeX Font Warning: Font shape `TS1/ptm/m/n' undefined
-(Font)              using `TS1/cmr/m/n' instead
-(Font)              for symbol `textordmasculine' on input line 50.
-
 <def2.png, id=46, 523.20468pt x 411.78844pt>
 File: def2.png Graphic file (type png)
 <use def2.png>
-Package pdftex.def Info: def2.png  used on input line 54.
+Package pdftex.def Info: def2.png  used on input line 55.
 (pdftex.def)             Requested size: 156.96262pt x 123.53748pt.
 <vco1.png, id=48, 490.83376pt x 156.585pt>
 File: vco1.png Graphic file (type png)
 <use vco1.png>
-Package pdftex.def Info: vco1.png  used on input line 64.
+Package pdftex.def Info: vco1.png  used on input line 65.
 (pdftex.def)             Requested size: 147.25125pt x 46.97586pt.
 <vco2.png, id=50, 505.89pt x 327.47343pt>
 File: vco2.png Graphic file (type png)
 <use vco2.png>
-Package pdftex.def Info: vco2.png  used on input line 73.
+Package pdftex.def Info: vco2.png  used on input line 74.
 (pdftex.def)             Requested size: 151.76816pt x 98.24278pt.
+<pll1.png, id=52, 1169.87062pt x 263.48438pt>
+File: pll1.png Graphic file (type png)
+<use pll1.png>
+Package pdftex.def Info: pll1.png  used on input line 84.
+(pdftex.def)             Requested size: 233.96997pt x 52.69594pt.
 [1{C:/Users/Isaia/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
  <./def1.png> <./def2.png> <./vco1.png> <./vco2.png>]
-<pll1.png, id=70, 1169.87062pt x 263.48438pt>
-File: pll1.png Graphic file (type png)
-<use pll1.png>
-Package pdftex.def Info: pll1.png  used on input line 83.
-(pdftex.def)             Requested size: 233.96997pt x 52.69594pt.
-<pll2.png, id=71, 720.44156pt x 221.32687pt>
+<pll2.png, id=70, 720.44156pt x 221.32687pt>
 File: pll2.png Graphic file (type png)
 <use pll2.png>
-Package pdftex.def Info: pll2.png  used on input line 93.
+Package pdftex.def Info: pll2.png  used on input line 94.
 (pdftex.def)             Requested size: 216.13412pt x 66.39856pt.
-<sal.png, id=74, 395.22656pt x 328.97906pt>
+<sal.png, id=73, 395.22656pt x 328.97906pt>
 File: sal.png Graphic file (type png)
 <use sal.png>
-Package pdftex.def Info: sal.png  used on input line 132.
+Package pdftex.def Info: sal.png  used on input line 133.
 (pdftex.def)             Requested size: 118.56888pt x 98.69447pt.
-<Fig/CircuitoBase.png, id=75, 874.76813pt x 336.50719pt>
+<Fig/CircuitoBase.png, id=74, 874.76813pt x 336.50719pt>
 File: Fig/CircuitoBase.png Graphic file (type png)
 <use Fig/CircuitoBase.png>
-Package pdftex.def Info: Fig/CircuitoBase.png  used on input line 144.
+Package pdftex.def Info: Fig/CircuitoBase.png  used on input line 145.
 (pdftex.def)             Requested size: 232.19843pt x 89.31773pt.
-<Fig/FrecuenciaLibre_VCO16K_R10K_C100n.png, id=78, 425.33907pt x 427.5975pt>
+<Fig/FrecuenciaLibre_VCO16K_R10K_C100n.png, id=77, 425.33907pt x 427.5975pt>
 File: Fig/FrecuenciaLibre_VCO16K_R10K_C100n.png Graphic file (type png)
 <use Fig/FrecuenciaLibre_VCO16K_R10K_C100n.png>
 Package pdftex.def Info: Fig/FrecuenciaLibre_VCO16K_R10K_C100n.png  used on input line 154.
 (pdftex.def)             Requested size: 232.19843pt x 233.43076pt.
  [2 <./pll1.png> <./pll2.png> <./sal.png> <./Fig/CircuitoBase.png>]
-<Fig/FrecuenciaLibreVariandoR50K.png, id=92, 502.12593pt x 531.48563pt>
+<Fig/FrecuenciaLibreVariandoR50K.png, id=90, 502.12593pt x 531.48563pt>
 File: Fig/FrecuenciaLibreVariandoR50K.png Graphic file (type png)
 <use Fig/FrecuenciaLibreVariandoR50K.png>
 Package pdftex.def Info: Fig/FrecuenciaLibreVariandoR50K.png  used on input line 162.
 (pdftex.def)             Requested size: 232.19843pt x 245.77582pt.
 
 
-LaTeX Font Warning: Font shape `OT1/ptm/b/n' undefined
-(Font)              using `OT1/ptm/bx/n' instead on input line 168.
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 170.
 
-
-LaTeX Warning: Reference `TablaTau' on page 3 undefined on input line 168.
-
-<Fig/Engancheinferior.png, id=95, 526.96875pt x 319.1925pt>
+<Fig/Engancheinferior.png, id=94, 526.96875pt x 319.1925pt>
 File: Fig/Engancheinferior.png Graphic file (type png)
 <use Fig/Engancheinferior.png>
-Package pdftex.def Info: Fig/Engancheinferior.png  used on input line 182.
+Package pdftex.def Info: Fig/Engancheinferior.png  used on input line 193.
 (pdftex.def)             Requested size: 232.19843pt x 140.64969pt.
-<Fig/EngancheMedio.png, id=96, 503.63156pt x 318.43968pt>
+<Fig/EngancheMedio.png, id=95, 503.63156pt x 318.43968pt>
 File: Fig/EngancheMedio.png Graphic file (type png)
 <use Fig/EngancheMedio.png>
-Package pdftex.def Info: Fig/EngancheMedio.png  used on input line 189.
+Package pdftex.def Info: Fig/EngancheMedio.png  used on input line 200.
 (pdftex.def)             Requested size: 232.19843pt x 146.81444pt.
-<Fig/EngancheSuperior.png, id=97, 506.6428pt x 314.67563pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./Fig/FrecuenciaLibre_VCO16K_R10K_C100n.png> <./Fig/FrecuenciaLibreVariandoR50K.png> <./Fig/Engancheinferior.png>]
+<Fig/EngancheSuperior.png, id=109, 506.6428pt x 314.67563pt>
 File: Fig/EngancheSuperior.png Graphic file (type png)
 <use Fig/EngancheSuperior.png>
-Package pdftex.def Info: Fig/EngancheSuperior.png  used on input line 196.
+Package pdftex.def Info: Fig/EngancheSuperior.png  used on input line 207.
 (pdftex.def)             Requested size: 232.19843pt x 144.21477pt.
-[3 <./Fig/FrecuenciaLibre_VCO16K_R10K_C100n.png> <./Fig/FrecuenciaLibreVariandoR50K.png> <./Fig/Engancheinferior.png> <./Fig/EngancheMedio.png>]
 <Fig/NoEnganche500.png, id=115, 466.74374pt x 318.43968pt>
 File: Fig/NoEnganche500.png Graphic file (type png)
 <use Fig/NoEnganche500.png>
-Package pdftex.def Info: Fig/NoEnganche500.png  used on input line 206.
+Package pdftex.def Info: Fig/NoEnganche500.png  used on input line 217.
 (pdftex.def)             Requested size: 232.19843pt x 158.41771pt.
 <Fig/NoEnganche1500.png, id=116, 523.9575pt x 316.18124pt>
 File: Fig/NoEnganche1500.png Graphic file (type png)
 <use Fig/NoEnganche1500.png>
-Package pdftex.def Info: Fig/NoEnganche1500.png  used on input line 212.
+Package pdftex.def Info: Fig/NoEnganche1500.png  used on input line 223.
 (pdftex.def)             Requested size: 232.19843pt x 140.11885pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--229
+Underfull \hbox (badness 10000) in paragraph at lines 235--240
 
  []
 
 <Fig/FFT_FMMod10Hz.png, id=117, 293.59688pt x 448.67625pt>
 File: Fig/FFT_FMMod10Hz.png Graphic file (type png)
 <use Fig/FFT_FMMod10Hz.png>
-Package pdftex.def Info: Fig/FFT_FMMod10Hz.png  used on input line 237.
-(pdftex.def)             Requested size: 154.80157pt x 236.56496pt.
+Package pdftex.def Info: Fig/FFT_FMMod10Hz.png  used on input line 248.
+(pdftex.def)             Requested size: 144.47937pt x 220.79121pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4 <./Fig/EngancheSuperior.png> <./Fig/NoEnganche500.png> <./Fig/NoEnganche1500.png>]
-<Fig/FFT_FMMod30Hz.png, id=128, 288.3272pt x 446.41782pt>
+ [4 <./Fig/EngancheMedio.png> <./Fig/EngancheSuperior.png> <./Fig/NoEnganche500.png> <./Fig/NoEnganche1500.png>]
+<Fig/FFT_FMMod30Hz.png, id=130, 288.3272pt x 446.41782pt>
 File: Fig/FFT_FMMod30Hz.png Graphic file (type png)
 <use Fig/FFT_FMMod30Hz.png>
-Package pdftex.def Info: Fig/FFT_FMMod30Hz.png  used on input line 244.
-(pdftex.def)             Requested size: 154.80157pt x 239.68605pt.
-<Fig/FFT_FMMod50Hz.png, id=129, 301.8778pt x 450.18187pt>
+Package pdftex.def Info: Fig/FFT_FMMod30Hz.png  used on input line 255.
+(pdftex.def)             Requested size: 144.47937pt x 223.70561pt.
+<Fig/FFT_FMMod50Hz.png, id=131, 301.8778pt x 450.18187pt>
 File: Fig/FFT_FMMod50Hz.png Graphic file (type png)
 <use Fig/FFT_FMMod50Hz.png>
-Package pdftex.def Info: Fig/FFT_FMMod50Hz.png  used on input line 251.
-(pdftex.def)             Requested size: 154.80157pt x 230.84677pt.
+Package pdftex.def Info: Fig/FFT_FMMod50Hz.png  used on input line 262.
+(pdftex.def)             Requested size: 144.47937pt x 215.45287pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 267.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 278.
  [5 <./Fig/FFT_FMMod10Hz.png> <./Fig/FFT_FMMod30Hz.png> <./Fig/FFT_FMMod50Hz.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 267.
- (c:/Users\Isaia\Desktop\inf\build\Intro.aux
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 278.
+ (d:/Isaias\Documents\Git\Laboratorio-PLL\build\Intro.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 267.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 267.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 278.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 278.
 Package rerunfilecheck Info: File `Intro.out' has not changed.
 (rerunfilecheck)             Checksum: BA8F8621D3AB288F98196B84FFECE652;656.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 267.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 278.
  ) 
 Here is how much of TeX's memory you used:
- 9550 strings out of 481556
- 152197 string characters out of 2913869
- 427354 words of memory out of 3000000
- 24589 multiletter control sequences out of 15000+200000
- 541801 words of font info for 62 fonts, out of 3000000 for 9000
+ 9510 strings out of 481556
+ 151868 string characters out of 2913869
+ 427405 words of memory out of 3000000
+ 24553 multiletter control sequences out of 15000+200000
+ 538931 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,10n,46p,534b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Isaia\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on c:/Users\Isaia\Desktop\inf\build\Intro.pdf (5 pages, 609540 bytes).
+ 48i,10n,46p,547b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Isaia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on d:/Isaias\Documents\Git\Laboratorio-PLL\build\Intro.pdf (5 pages, 621833 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
+ 185 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 500000)
  171 words of extra memory for PDF output out of 10000 (max. 10000000)
 
